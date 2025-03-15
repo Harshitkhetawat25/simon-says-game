@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+}
+
+.button {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 36px;
+}
+
+.box-container {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background-color: red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.gameflash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: pink
+}
